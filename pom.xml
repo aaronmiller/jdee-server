@@ -11,7 +11,7 @@
     <url>https://github.com/jdee-emacs/jdee-server</url>
 
     <prerequisites>
-        <maven>3.0.0</maven>
+        <maven>3.6.3</maven>
     </prerequisites>
 
     <properties>
